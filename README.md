@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ssdeanx-branch-thinking-mcp-badge.png)](https://mseep.ai/app/ssdeanx-branch-thinking-mcp)
+
 # 🚦 Branch-Thinking MCP Tool
 
 [![Changelog](https://img.shields.io/badge/changelog-md-blue)](./CHANGELOG.md)
